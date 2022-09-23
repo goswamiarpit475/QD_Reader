@@ -121,6 +121,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ARIBL0.ttf" />
+    <None Include="Resources\barcode_font.ttf" />
     <None Include="Resources\formLogo.png" />
   </ItemGroup>
   <ItemGroup>
